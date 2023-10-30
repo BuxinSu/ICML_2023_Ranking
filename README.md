@@ -7,7 +7,7 @@ In 2023, we conducted a survey-based experiment at the International Conference 
 
 ## Notebooks
 1. Teaser: [`Figure 1`](Notebooks/Random_Proxy.ipynb)
-2. Compare Mean Squared Error: [`Table 1`]()
+2. Preliminary Analysis of Rankings: [`Table 1`](Notebooks/Random_Proxy.ipynb)
 
 
 
