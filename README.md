@@ -14,6 +14,7 @@ In 2023, we conducted a survey-based experiment at the International Conference 
 
 ### Tables
 1. Preliminary Analysis of Rankings: [`Table 1`](Notebooks/Ranking_and_Final_Decision.ipynb)
+2. MSE and Hypothesis Test: [`Table 2`](Notebooks/Adhoc_Greedy_and_Multiowner_histogram.ipynb)
 
 
 ## Reference
