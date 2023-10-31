@@ -11,7 +11,7 @@ In 2023, we conducted a survey-based experiment at the International Conference 
 2. MSE grouped by number of submissions: [`Figure 5`](Notebooks/no_submissions_vertical.ipynb)
 
 ### Tables
-1. Preliminary Analysis of Rankings: [`Table 1`](Notebooks/Ranking and Final Decision.ipynb)
+1. Preliminary Analysis of Rankings: [`Table 1`](Notebooks/Ranking_and_Final_Decision.ipynb)
 
 
 ## Reference
