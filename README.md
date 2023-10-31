@@ -8,7 +8,7 @@ In 2023, we conducted a survey-based experiment at the International Conference 
 ## Notebooks
 ### Figures
 1. Teaser: [`Figure 1`](Notebooks/Random_Proxy.ipynb)
-2. Isotonic Precedure: [`Figure 2`]()
+2. Isotonic Precedure: [`Figure 2`](Notebooks/isotonic_procedure.svg)
 3. MSE grouped by number of submissions: [`Figure 5`](Notebooks/no_submissions_vertical.ipynb)
 
 ### Tables
