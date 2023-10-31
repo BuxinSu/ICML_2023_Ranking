@@ -6,9 +6,12 @@ In 2023, we conducted a survey-based experiment at the International Conference 
 
 
 ## Notebooks
+### Figures
 1. Teaser: [`Figure 1`](Notebooks/Random_Proxy.ipynb)
 2. MSE grouped by number of submissions: [`Figure 5`](Notebooks/no_submissions_vertical.ipynb)
 
+### Tables
+1. Preliminary Analysis of Rankings: [`Table 1`](Notebooks/Ranking and Final Decision.ipynb)
 
 
 ## Reference
