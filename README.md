@@ -1,4 +1,4 @@
-# Analysis of the ICML 2023 Ranking Data: Can Authors' Opinions on Their Own Papers Assist Peer Review?
+# Analysis of the ICML 2023 Ranking Data: Can Authors’ Opinions on Their Own Papers Assist Peer Review in Machine Learning?
 In 2023, we conducted a survey-based experiment at the International Conference on Machine Learning (ICML) that requested authors of multiple submissions to rank their own papers based on perceived quality.
 
 
