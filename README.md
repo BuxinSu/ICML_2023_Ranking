@@ -9,7 +9,7 @@ In 2023, we conducted a survey-based experiment at the International Conference 
 3. MSE by Scatter Plot: [`Figure 3`](Notebooks/Adhoc_Greedy_Multiowner_scatter.ipynb)
 4. MSE by histogram: [`Figure 4`](Notebooks/Adhoc_Greedy_and_Multiowner_histogram.ipynb)
 5. MSE by cumulative distributions: [`Figure 5`](Notebooks/Adhoc_Greedy_and_Multiowner_histogram.ipynb)
-6. MSE grouped by number of submissions: [`Figure 6`](Notebooks/no_submissions_vertical.ipynb)
+6. MSE grouped by number of submissions: [`Figure 6`](Notebooks/No_submissions_vertical.ipynb)
 7. Residual and Confidence/Variance: [`Figure 7`](Notebooks/Confidence_single_iso_residual.ipynb)
 
 ### Tables
