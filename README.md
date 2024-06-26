@@ -15,7 +15,8 @@ In 2023, we conducted a survey-based experiment at the International Conference 
 ### Tables
 1. Preliminary Analysis of Rankings: [`Table 1`](Notebooks/Ranking_and_Final_Decision.ipynb)
 2. MSE and Hypothesis Test: [`Table 2`](Notebooks/Adhoc_Greedy_and_Multiowner_histogram.ipynb)
-3. Prediction accuracy: [`Table 3`](Notebooks/Residual_variance_confidence_accuracy.ipynb)
+3. 
+4. Prediction accuracy: [`Table 4`](Notebooks/Residual_variance_confidence_accuracy.ipynb)
 
 
 ## Reference
