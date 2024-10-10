@@ -19,5 +19,4 @@ In 2023, we conducted a survey-based experiment at the International Conference 
 4. Prediction accuracy: [`Table 4`](Notebooks/Residual_variance_confidence_accuracy.ipynb)
 
 ## Reference
-
-
+Su, B., Zhang, J., Collina, N., Yan, Y., Li, D., Cho, K., ... & Su, W. J. (2024). Analysis of the ICML 2023 Ranking Data: Can Authors' Opinions of Their Own Papers Assist Peer Review in Machine Learning?. arXiv preprint arXiv:2408.13430.
